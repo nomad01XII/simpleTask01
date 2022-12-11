@@ -1,3 +1,9 @@
+simple project with MUI that manages the state with RTKquery 
+this was only a task and has lot to take care of, and you may still see some components not working
+thanks for visiting :)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
